@@ -25,18 +25,20 @@ This project is a C++ application with a graphical user interface (GUI) that all
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/puushtab/DNN-from-scratch.git
-   cd DNN-from-scratcg
+   git clone https://github.com/puushtab/DNN-from-scratch
+   cd DNN-from-scratch
    ```
+   
 2. Configure and build the project:
    ```bash
-  make
+   make
    ```
 
 3. Run the application:
    ```bash
-  ./sfml-application
+   ./sfml-application
    ```
+   
 ---
 
 ## **Good-to-know**
@@ -77,6 +79,5 @@ _This project is under the MIT License_
 ---
 
 ## **Acknowledgments**
-_(Mention any libraries, frameworks, or individuals who contributed to the project.)_
-- Maloe Aymonier: Worked on the frontend of this project
-- Gabriel Dupuis: Worked on the backend of this project
+- **Maloe Aymonier**: Worked on the frontend of this project
+- **Gabriel Dupuis**: Worked on the backend of this project
