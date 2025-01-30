@@ -19,7 +19,7 @@ This project is a C++ application with a graphical user interface (GUI) that all
 
 ### **Prerequisites**
 - C++ compiler supporting C++20 (or later)
-- [SFML]([https://www.qt.io/](https://www.sfml-dev.org/fr/) 
+- [SFML](https://www.sfml-dev.org/fr/) 
 - [Eigen](https://eigen.tuxfamily.org/) (for matrix operations).
 
 ### **Steps**
