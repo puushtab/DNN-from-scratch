@@ -4,7 +4,6 @@ This project is a C++ application with a graphical user interface (GUI) that all
 
 ---
 ## **Screenshots**
-_(Add screenshots of the application interface here.)_
 ![image](https://github.com/user-attachments/assets/f7ddbe53-5fa2-45be-b641-650cbe111e0d)
 ![image](https://github.com/user-attachments/assets/be666087-b3bb-404a-96a6-1efad3e22674)
 
