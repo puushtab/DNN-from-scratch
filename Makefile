@@ -1,6 +1,6 @@
 # Compilateur et flags
 CXX := g++
-CXXFLAGS := -g -std=c++20 -Ifrontend/include -Ibackend/include -Wall -Wextra -MMD -MP
+CXXFLAGS := -g -std=c++20 -Ifrontend/include -Ibackend/include -MMD -MP
 LDFLAGS :=
 LDLIBS := -lsfml-graphics -lsfml-window -lsfml-system
 
