@@ -75,7 +75,8 @@ Contributions are welcome! Please follow these steps:
 ---
 
 ## **License**
-_This project is under the MIT License_
+This project is under the MIT License
+
 ---
 
 ## **Acknowledgments**
